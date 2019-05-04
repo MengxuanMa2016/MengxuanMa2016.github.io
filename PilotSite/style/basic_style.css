@@ -1,0 +1,53 @@
+body {
+    /*background-color: #FFFFAB;*/
+    background-image: url("../images/natural_paper.png");
+    font-family: sans-serif;
+    text-indent: 1em;
+    text-shadow: 3px 3px 5px #CCCCCC;
+    padding-left: 0px;
+    padding-top: 0px;
+}
+
+h1 {
+    /*background-color:rgb(236, 190, 38);*/
+    color: black;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 2.5em;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 20px;
+    /*text-shadow: 3px 3px 3px #7A8182;*/
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+h2 {
+    background-color: #f5982e;
+    color: rgb(19, 12, 11);
+}
+
+ /*ul {
+    font-weight: bold;
+  }
+  */
+
+.active {
+  background-color: #f5982e;
+}
+
+blockquote {
+    display: block;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+footer {
+    font-size: 13px
+}
+
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
